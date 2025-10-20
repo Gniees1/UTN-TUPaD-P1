@@ -1,0 +1,14 @@
+Lapicera,1000.0,20
+Cuaderno,5000.0,15
+Mochila,15000.0,10
+Lapices,500.0,2
+Cartuchera,500.0,10
+Cepillo,200.0,1
+Poster,200.0,2
+Virome,500.0,5
+Fibron,700.0,2
+Regla,500.0,3
+Sacapuntas,800.0,7
+Compas,700.0,5
+Transportador,500.0,2
+Cuaderno,1200.5,10
